@@ -2,5 +2,11 @@
     "name": "cyy-mall/pay",
     "description": "pay sdk",
     "type": "library",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yansongda\\Pay\\": "src",
+            Yansongda\\Supports\\": "src/"
+        }
+    }
 }
