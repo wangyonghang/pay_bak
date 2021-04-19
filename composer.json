@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "Yansongda\\Pay\\": "src",
-            Yansongda\\Supports\\": "src/"
+            "Yansongda\\Supports\\": "src/"
         }
     }
 }
