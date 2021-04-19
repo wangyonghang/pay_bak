@@ -2,6 +2,5 @@
     "name": "cyy-mall/pay",
     "description": "pay sdk",
     "type": "library",
-    "license": "MIT",
     "require": {}
 }
